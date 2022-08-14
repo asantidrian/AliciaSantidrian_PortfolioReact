@@ -1,0 +1,152 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#main-content {
+    background-color: #def6f3;
+}
+
+/* #projects-content {
+    background-color: #def6f3;
+} */
+
+/* .project {
+    background-color: #f5c3af;
+    border-style: solid;
+    border-color: #5d3d4a;
+
+} */
+
+.btn-link {
+
+    color: #033c50
+}
+
+
+.header {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* background-color: rgb(92, 241, 219); */
+    color: #033c50;
+    border-bottom: solid;
+    border-color: #033c50;
+
+}
+
+.pageBackground {
+    background-color: rgb(9, 191, 208);
+}
+
+.projectCard {
+    background-color: rgb(9, 191, 208);
+}
+
+
+
+
+footer {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #033c50;
+    background-color: rgb(9, 191, 208);
+    border-top: solid;
+    border-color: #033c50;
+
+    /* background-color: #def6f3; */
+}
+
+.footer-content {
+    background-color: #def6f3;
+
+
+}
+
+.nav-link {
+    color: #5d3d4a;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+.projectImg {
+    opacity: 50%;
+}
+
+
+h2 {
+    color: #5d3d4a;
+
+}
+
+h1 {
+    color: #5d3d4a;
+
+}
+
+h5 {
+    color: #5d3d4a;
+
+}
+
+p {
+    color: #5d3d4a;
+
+}
+
+
+li {
+    list-style: none;
+    margin-bottom: 4px;
+    color: #5d3d4a;
+
+
+}
+
+#Contact-me {
+    padding-top: 1pc;
+}
+
+.profilePhoto {
+    max-width: 100px;
+    height: 100px;
+}
+
+.symbol {
+    font-size: 32px;
+}
+
+.proficiencies {
+
+    background-color: rgb(9, 191, 208);
+    /* margin-bottom: 4px;
+    padding-bottom: 4px;
+ */
+}
+
+ul {
+
+    margin-top: 2px;
+}
+
+.hoverText {
+    background: #00000080;
+    opacity: 0;
+    transition-duration: 1.2s;
+    transition-timing-function: ease-in-out;
+
+}
+
+.hoverText:hover {
+    opacity: 1;
+}
+
+.icon {
+
+    color: #5d3d4a;
+}
+
+.resume {
+    color: #5d3d4a;
+
+}
