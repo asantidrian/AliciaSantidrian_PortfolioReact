@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ASProfetionalPortfolio-React/static/css/main.1f657053.css",
-    "main.js": "/ASProfetionalPortfolio-React/static/js/main.7c18a382.js",
-    "static/media/CV.pdf": "/ASProfetionalPortfolio-React/static/media/CV.3c90275b314c85d7d7ae.pdf",
-    "static/media/MarvelTube.jpg": "/ASProfetionalPortfolio-React/static/media/MarvelTube.d6d3aece87e70f3480d1.jpg",
-    "static/media/justKidding.jpg": "/ASProfetionalPortfolio-React/static/media/justKidding.f1aa8f28a9bf95705b64.jpg",
-    "static/media/WeatherDashboard.jpg": "/ASProfetionalPortfolio-React/static/media/WeatherDashboard.1cc1dddf69749e82c3e6.jpg",
-    "static/media/Code-Quiz.jpg": "/ASProfetionalPortfolio-React/static/media/Code-Quiz.6822d5708137d14d108e.jpg",
-    "static/media/NoteTaker.jpg": "/ASProfetionalPortfolio-React/static/media/NoteTaker.383f9c593b04e63e6be8.jpg",
-    "index.html": "/ASProfetionalPortfolio-React/index.html",
-    "main.1f657053.css.map": "/ASProfetionalPortfolio-React/static/css/main.1f657053.css.map",
-    "main.7c18a382.js.map": "/ASProfetionalPortfolio-React/static/js/main.7c18a382.js.map"
+    "main.css": "/AliciaSantidrian_PortfolioReact/static/css/main.1f657053.css",
+    "main.js": "/AliciaSantidrian_PortfolioReact/static/js/main.1d1a4e03.js",
+    "static/media/CV.pdf": "/AliciaSantidrian_PortfolioReact/static/media/CV.3c90275b314c85d7d7ae.pdf",
+    "static/media/MarvelTube.jpg": "/AliciaSantidrian_PortfolioReact/static/media/MarvelTube.d6d3aece87e70f3480d1.jpg",
+    "static/media/justKidding.jpg": "/AliciaSantidrian_PortfolioReact/static/media/justKidding.f1aa8f28a9bf95705b64.jpg",
+    "static/media/WeatherDashboard.jpg": "/AliciaSantidrian_PortfolioReact/static/media/WeatherDashboard.1cc1dddf69749e82c3e6.jpg",
+    "static/media/Code-Quiz.jpg": "/AliciaSantidrian_PortfolioReact/static/media/Code-Quiz.6822d5708137d14d108e.jpg",
+    "static/media/NoteTaker.jpg": "/AliciaSantidrian_PortfolioReact/static/media/NoteTaker.383f9c593b04e63e6be8.jpg",
+    "index.html": "/AliciaSantidrian_PortfolioReact/index.html",
+    "main.1f657053.css.map": "/AliciaSantidrian_PortfolioReact/static/css/main.1f657053.css.map",
+    "main.1d1a4e03.js.map": "/AliciaSantidrian_PortfolioReact/static/js/main.1d1a4e03.js.map"
   },
   "entrypoints": [
     "static/css/main.1f657053.css",
-    "static/js/main.7c18a382.js"
+    "static/js/main.1d1a4e03.js"
   ]
 }
