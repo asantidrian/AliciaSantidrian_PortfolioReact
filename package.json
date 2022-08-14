@@ -1,7 +1,7 @@
 {
   "name": "profesionalportfolio",
   "version": "0.1.0",
-  "homepage": "https://asantidrian.github.io/ASProfetionalPortfolio-React",
+  "homepage": "https://asantidrian.github.io/AliciaSantidrian_PortfolioReact",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
